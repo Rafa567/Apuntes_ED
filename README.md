@@ -70,6 +70,6 @@ La especificación de requisitos debe:
 
 -Dividir y jerarquizar el modelo
 
--Fijar criterios de validació,
+-Fijar criterios de validación
   
  
