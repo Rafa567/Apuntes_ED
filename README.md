@@ -72,4 +72,6 @@ La especificación de requisitos debe:
 
 -Fijar criterios de validación
   
+  
+  Diseño:Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado.
  
