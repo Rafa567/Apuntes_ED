@@ -28,13 +28,23 @@ Ingenieria del Software:Disciplina que estudia los principios y metodologías pa
 
 __Desarrollo de Software__
 
-Fases Principales:
+__Fases Principales:
 -Análisis
 -Diseño
 -Codificacion
 -Pruebas
--Mantenimiento
+-Mantenimiento__
 
 
-Análisis:
+Análisis:Se determina y define claramente las necesidades del cliente y se especifica los requisitos que debe cumplir el software a desarrollar
+La especificación de requisitos debe:
+
+-Ser completa y sin omisiones
+-Ser concisa y sin trivialidades
+-Evitar ambigüedades
+-Evitar detalles de diseño o implementación
+-Ser entendible por el cliente
+-Separar requisitos funcionales y no funcionales
+-Dividir y jerarquizar el modelo
+-Fijar criterios de validación
 
