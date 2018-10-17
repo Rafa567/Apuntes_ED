@@ -47,4 +47,30 @@ La especificación de requisitos debe:
   -Separar requisitos funcionales y no funcionales
   -Dividir y jerarquizar el modelo
   -Fijar criterios de validación
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
