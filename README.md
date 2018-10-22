@@ -73,5 +73,41 @@ La especificación de requisitos debe:
 -Fijar criterios de validación
   
   
-  Diseño:Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado.
+  *Diseño*:Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado.
+Se especifica la interrelación y funcionalidad de los elementos componentes.
+
+Las actividades habituales son las siguientes:
+
+-Diseño arquitectónico
+-Diseño detallado
+-Diseño de datos
+-Diseño de interfaz
+
+
+*Codificación*:Se escribe el código fuente de cada componente.
+Pueden utilizarse distintos lenguajes informáticos:
+
+ -__Lenguajes de programación__: C, C++, Java, Javascript
+ -__Lenguajes de otro tipo__: HTML, XML, JSON
+ 
+ 
+ *Pruebas*: El principal objetivo de las pruebas debe ser conseguir que el programa funcione incorrectamente y que se descubran    defectos. 
+Deberemos someter al programa al máximo número de situaciones diferentes.
+
+
+*Mantenimiento*:
+
+  Durante la explotación del sistema software es necesario realizar cambios ocasionales.
+  Para ello hay que rehacer parte del trabajo realizado en las fases previas.
+  __Tipos de mantenimiento__:
+        Correctivo: se corrigen defectos.
+        Perfectivo: se mejora la funcionalidad.
+        Evolutivo: se añade funcionalidades nuevas.
+        Adaptativo: se adapta a nuevos entornos.
+
+
+
+
+
+
  
