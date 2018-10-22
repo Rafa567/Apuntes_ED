@@ -52,7 +52,7 @@ __-Diseño__
 __-Mantenimiento__
 
 
-*Análisis*:Se determina y define claramente las necesidades del cliente y se especifica los requisitos que debe cumplir el software a desarrollar
+__*Análisis*__:Se determina y define claramente las necesidades del cliente y se especifica los requisitos que debe cumplir el software a desarrollar
 La especificación de requisitos debe:
 
 
@@ -73,7 +73,7 @@ La especificación de requisitos debe:
 -Fijar criterios de validación
   
   
-  *Diseño*:Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado.
+  __*Diseño*__:Se descompone y organiza el sistema en elementos componentes que pueden ser desarrollados por separado.
 Se especifica la interrelación y funcionalidad de los elementos componentes.
 
 Las actividades habituales son las siguientes:
@@ -84,18 +84,18 @@ Las actividades habituales son las siguientes:
 -Diseño de interfaz
 
 
-*Codificación*:Se escribe el código fuente de cada componente.
+__*Codificación*__:Se escribe el código fuente de cada componente.
 Pueden utilizarse distintos lenguajes informáticos:
 
  -__Lenguajes de programación__: C, C++, Java, Javascript
  -__Lenguajes de otro tipo__: HTML, XML, JSON
  
  
- *Pruebas*: El principal objetivo de las pruebas debe ser conseguir que el programa funcione incorrectamente y que se descubran    defectos. 
+ __*Pruebas*__: El principal objetivo de las pruebas debe ser conseguir que el programa funcione incorrectamente y que se descubran    defectos. 
 Deberemos someter al programa al máximo número de situaciones diferentes.
 
 
-*Mantenimiento*:
+__*Mantenimiento*__:
 
   Durante la explotación del sistema software es necesario realizar cambios ocasionales.
   Para ello hay que rehacer parte del trabajo realizado en las fases previas.
